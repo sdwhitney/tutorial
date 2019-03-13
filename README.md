@@ -1,8 +1,8 @@
-*****
-Title of tutorial
-*****
+***
+# Title of tutorial
+***
 
-# tutorial
+## tutorial
 My tutorial 
 
 - An image
